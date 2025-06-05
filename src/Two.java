@@ -14,4 +14,7 @@ public class Two {
         }
         return "Odd";
     }
+
+    // OPTIMISED
+    // return (num%2==0) ? "Even" : "Odd";
 }
