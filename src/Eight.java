@@ -1,5 +1,3 @@
-import java.time.Year;
-
 public class Eight {
     public static void main(String[] args) {
         // Problem 8: Leap Year or Not
