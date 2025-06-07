@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Twelve {
     public static void main(String[] args) {
         // Problem 12: Reverse of a Number
