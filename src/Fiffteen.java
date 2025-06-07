@@ -9,7 +9,7 @@ public class Fiffteen {
         int[] freq = new int[10];
         int lastDigit = 0;
         if (n == 0) {
-            freq[0] = 1;
+            freq[0] = 1;    
         }
 
         while (n>0) {
