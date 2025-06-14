@@ -1,6 +1,6 @@
 public class FortySeven {
     public static void main(String[] args) {
-        // Problem 47: Can a Number Be Expressed as the Sum of Two Prime Numbers?.
+        // Problem 47: Can a Number Be Expressed as the Sum of Two Prime Numbers?
         int n = 34;
         findPrimeSum(n);
     } 
