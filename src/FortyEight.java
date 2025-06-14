@@ -3,7 +3,7 @@ public class FortyEight {
         // Problem 48: Count Possible Decodings of a Digit Sequence
         String s = "1126";
         int ways = countDecodings(s);
-        System.out.println(ways); // Output: 5
+        System.out.println(ways); 
     }
 
     public static int countDecodings(String s) {
