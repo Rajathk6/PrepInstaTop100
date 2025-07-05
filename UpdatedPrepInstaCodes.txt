@@ -1,167 +1,174 @@
-1	Positive or Negative Number	
-2	Even or Odd Numbers	
-3	Problem 3: Sum of First N Natural Numbers
-4	Problem 4: Sum of N Natural Numbers
-5	Sum of Numbers in a Given Range	
-6	Greatest of Two Numbers
-7	Greatest of the Three Numbers
-8	Leap Year or Not	
-9	Prime Number.	
-10	Prime Numbers Within a Given Range	
-11	Print All Factors of a Number
-12	Reverse of a Number	
-13	Palindrome Number	
-14	Armstrong Number	
-15	Find the Frequency of Digits in a Number
-16	Count the Number of Digits in an Integer
-17	Sum of Digits of a Number
-18	Product of Digits of a Number
-19	Check if a Number is a Perfect Number
-20	Check Whether a Number is a Strong Number
-21	Find All Strong Numbers in a Given Range
-22	Check Whether a Number is a Harshad Number
-23	Check Whether a Number is an Automorphic Number	
-24	Check Whether a Number is a Neon Number	
-25	Check Whether a Number is a Disarium Number
-26	Check Whether a Number is a Spy Number	
-27	Check Whether a Number is a Sunny Number	
-28	Check Whether a Number is a Buzz Number	
-29	Check Whether a Number is a Duck Number	
-30	Check Whether a Number is a Palindrome Number
+1. Positive or Negative Number
+2. Even or Odd Numbers
+3. Sum of First N Natural Numbers
+4. Sum of N Natural Numbers
+5. Sum of Numbers in a Given Range
+6. Greatest of Two Numbers
+7. Greatest of the Three Numbers
+8. Leap Year or Not
+9. Prime Number
+10. Prime Numbers Within a Given Range
+11. Print All Factors of a Number
+12. Reverse of a Number
+13. Palindrome Number
+14. Armstrong Number
+15. Find the Frequency of Digits in a Number
+16. Count the Number of Digits in an Integer
+17. Sum of Digits of a Number
+18. Product of Digits of a Number
+19. Check if a Number is a Perfect Number
+20. Check Whether a Number is a Strong Number
+21. Find All Strong Numbers in a Given Range
+22. Check Whether a Number is a Harshad Number
+23. Check Whether a Number is an Automorphic Number
+24. Check Whether a Number is a Neon Number
+25. Check Whether a Number is a Disarium Number
+26. Check Whether a Number is a Spy Number
+27. Check Whether a Number is a Sunny Number
+28. Check Whether a Number is a Buzz Number
+29. Check Whether a Number is a Duck Number
+30. Check Whether a Number is a Palindrome Number
 31. Highest Common Factor (HCF)
 32. Lowest Common Multiple (LCM)
 33. Greatest Common Divisor
-34. Binary to Decimal conversion
-35. Octal to Decimal conversion
-36. Hexadecimal to Decimal conversion
-37. Decimal to Binary conversion
+34. Binary to Decimal Conversion
+35. Octal to Decimal Conversion
+36. Hexadecimal to Decimal Conversion
+37. Decimal to Binary Conversion
 38. Decimal to Octal Conversion
 39. Decimal to Hexadecimal Conversion
-40. Binary to Octal conversion
-41. Octal to Binary conversion
-42. Quadrants in which a given coordinate lies
-43. Permutations in which n people can occupy r seats in a classroom
-44. Maximum number of handshakes
-45. Addition of two fractions
-46. Replace all 0’s with 1 in a given integer
-47. Can a number be expressed as a sum of two prime numbers
-48. Count possible decoding of a given digit sequence
-49. Calculate the area of a circle
-50. Find the prime numbers between 1 to 100
-51. Convert digit/number to words
-52. Counting number of days in a given month of a year
-53. Finding Number of times x digit occurs in a given input
-54. Finding number of integers which has exactly x divisors
-55. Finding Roots of a quadratic equation
-56. Power of a Number using Recursion
-57. Prime Number using Recursion
-58. Largest element in an array using Recursion
-59. Smallest element in an array using Recursion
-60. Reversing a Number using Recursion
-61. HCF of two numbers using Recursion
-62. LCM of two numbers using Recursion
-63. Calculate length of the string using Recursion
+40. Binary to Octal Conversion
+41. Octal to Binary Conversion
+42. Quadrants in Which a Given Coordinate Lies
+43. Permutations in Which n People Can Occupy r Seats
+44. Maximum Number of Handshakes
+45. Addition of Two Fractions
+46. Replace All 0’s with 1 in a Given Integer
+47. Can a Number Be Expressed as a Sum of Two Prime Numbers
+48. Count Possible Decoding of a Given Digit Sequence
+49. Calculate the Area of a Circle
+50. Find the Prime Numbers Between 1 to 100
+51. Convert Digit/Number to Words
+52. Counting Number of Days in a Given Month of a Year
+53. Finding Number of Times x Digit Occurs in a Given Input
+54. Finding Number of Integers Which Have Exactly x Divisors
+55. Finding Roots of a Quadratic Equation
+56. Power of a Number Using Recursion
+57. Prime Number Using Recursion
+58. Largest Element in an Array Using Recursion
+59. Smallest Element in an Array Using Recursion
+60. Reversing a Number Using Recursion
+61. HCF of Two Numbers Using Recursion
+62. LCM of Two Numbers Using Recursion
+63. Calculate Length of the String Using Recursion
 64. Print All Permutations of a String
-65. Print F(N)th term of a Fibonacci-like sequence
-66. Given a list arr of N integers, print sums of all subsets
-67. Last non-zero digit in factorial
-68. Return the Nth row of Pascal’s triangle
-69. Generate all combinations of well-formed parentheses
-70. Find Factorial of a number using Recursion
-71. Find all possible Palindromic partitions of a String
-72. Find all N-bit binary numbers with 1’s ≥ 0’s at every point
-73. Find all subsets of a set of positive integers
-74. Remove all adjacent duplicate characters recursively
-75. Find Largest element in an array
-76. Find Smallest element in an array
-77. Find Smallest and Largest element in an array
-78. Find Second Smallest Element in an Array
-79. Calculate the sum of elements in an array
-80. Reverse an Array
-81. Sort first half ascending, second half descending
-82. Sort elements of an array
-83. Frequency of elements in an array
-84. Sort elements by frequency
-85. Find Longest Palindrome in an Array
-86. Count Distinct Elements in an Array
-87. Find Repeating elements in an Array
-88. Find Non-Repeating elements in an Array
-89. Remove Duplicates from an array
-90. Find Min scalar product of 2 vectors
-91. Find Max scalar product of 2 vectors
-92. Count even and odd elements in an array
-93. Find all Symmetric pairs in an array
-94. Find max product sub-array
-95. Check if arrays are disjoint
-96. Check if one array is a subset of another
-97. Can all numbers of array be made equal
-98. Find min sum of absolute differences in array
-99. Sort one array according to the order of another
-100. Replace each element by its rank in array
-101. Find equilibrium index of array
-102. Left and Right Rotation of array
-103. Block Swap algorithm for rotation
-104. Juggling algorithm for rotation
-105. Circular rotation of an array by K positions
-106. Balanced Parenthesis Problem
-107. Check whether a character is a vowel or consonant
-108. Check whether a character is an alphabet or not
-109. Find the ASCII value of a character
-110. Length of the string without using strlen() function
-111. Toggle each character in a string
-112. Count the number of vowels
-113. Remove the vowels from a string
-114. Check if the given string is palindrome or not
-115. Print the given string in reverse order
-116. Remove all characters from a string except alphabets
-117. Remove spaces from a string
-118. Remove brackets from an algebraic expression
-119. Count the sum of numbers in a string
-120. Capitalize the first and last character of each word in a string
-121. Calculate frequency of characters in a string
-122. Find non-repeating characters in a string
-123. Check if two strings are anagrams or not
-124. Replace a substring in a string
-125. Replace a particular word with another word in a string
-126. Count common subsequence in two strings
-127. Check if two strings match where one contains wildcard characters
-128. Print all permutations of a string in lexicographically sorted order
-129. Given an array consisting of only 0, 1, and 2 — sort it without using any sorting algorithm
-130. Find the Kth maximum and minimum element of an array
-131. Move all negative elements to one side of the array
-132. Find the union and intersection of two sorted arrays
-133. Find the largest sum contiguous subarray
-134. Minimize the maximum difference between heights
-135. Minimum number of jumps to reach the end of an array
-136. Find duplicate in an array of N+1 integers
-137. Merge two sorted arrays without using extra space
-138. Kadane’s algorithm for maximum subarray sum
-139. Merge intervals
-140. Count inversions in an array
-141. Best time to buy and sell stock
-142. Find all pairs in an integer array whose sum equals a given number
-143. Find if there is any subarray with sum equal to 0
-144. Find factorial of a large number
-145. Find common elements in three sorted arrays
-146. Rearrange the array in alternating positive and negative items with O(1) extra space
-147. Given an array of size n and a number k, find all elements that appear more than n/k times
-148. Maximum profit by buying and selling a share at most twice
-149. Next permutation of a given array
-150. Find longest consecutive subsequence
-151. Trapping rain water problem
-152. Chocolate distribution problem
-153. Smallest subarray with sum greater than a given value
-154. Three-way partitioning of an array around a given value
-155. Minimum number of operations required to make an array palindrome
-156. Median of two sorted arrays of equal size
-157. Median of two sorted arrays of different sizes
-158. Spiral traversal on a matrix
-159. Search an element in a matrix
-160. Find median in a row-wise sorted matrix
-161. Find row with maximum number of 1’s
-162. Print elements in sorted order using row-column wise sorted matrix
-163. Find a specific pair in a matrix
-164. Rotate matrix by 90 degrees
-165. Kth smallest element in a row-column wise sorted matrix
-166. Common elements in all rows of a given matrix
-
+65. Print F(N)th Term of a Fibonacci-like Sequence
+66. Given a List arr of N Integers, Print Sums of All Subsets
+67. Last Non-Zero Digit in Factorial
+68. Return the Nth Row of Pascal’s Triangle
+69. Count Good Numbers in Range
+70. Count Substrings with Equal Number of 0s and 1s
+71. Longest Substring Without Repeating Characters
+72. Find the First Non-Repeating Character in a String
+73. Check if Two Strings Are Anagrams
+74. Maximum Subarray Sum (Kadane’s Algorithm)
+75. Sort Colors (Dutch National Flag Problem)
+76. Minimum Window Substring
+77. Generate All Combinations of Well-Formed Parentheses
+78. Find Factorial of a Number Using Recursion
+79. Find All Possible Palindromic Partitions of a String
+80. Find All N-bit Binary Numbers with 1’s ≥ 0’s at Every Point
+81. Find All Subsets of a Set of Positive Integers
+82. Remove All Adjacent Duplicate Characters Recursively
+83. Find Largest Element in an Array
+84. Find Smallest Element in an Array
+85. Find Smallest and Largest Element in an Array
+86. Find Second Smallest Element in an Array
+87. Calculate the Sum of Elements in an Array
+88. Reverse an Array
+89. Sort First Half Ascending, Second Half Descending
+90. Sort Elements of an Array
+91. Frequency of Elements in an Array
+92. Sort Elements by Frequency
+93. Find Longest Palindrome in an Array
+94. Count Distinct Elements in an Array
+95. Find Repeating Elements in an Array
+96. Find Non-Repeating Elements in an Array
+97. Remove Duplicates from an Array
+98. Find Min Scalar Product of 2 Vectors
+99. Find Max Scalar Product of 2 Vectors
+100. Count Even and Odd Elements in an Array
+101. Find All Symmetric Pairs in an Array
+102. Find Max Product Sub-array
+103. Check if Arrays Are Disjoint
+104. Check if One Array Is a Subset of Another
+105. Can All Numbers of Array Be Made Equal
+106. Find Min Sum of Absolute Differences in Array
+107. Sort One Array According to the Order of Another
+108. Replace Each Element by Its Rank in Array
+109. Find Equilibrium Index of Array
+110. Left and Right Rotation of Array
+111. Block Swap Algorithm for Rotation
+112. Juggling Algorithm for Rotation
+113. Circular Rotation of an Array by K Positions
+114. Balanced Parenthesis Problem
+115. Check Whether a Character Is a Vowel or Consonant
+116. Check Whether a Character Is an Alphabet or Not
+117. Find the ASCII Value of a Character
+118. Length of the String Without Using strlen() Function
+119. Toggle Each Character in a String
+120. Count the Number of Vowels
+121. Remove the Vowels from a String
+122. Check if the Given String Is Palindrome or Not
+123. Print the Given String in Reverse Order
+124. Remove All Characters from a String Except Alphabets
+125. Remove Spaces from a String
+126. Remove Brackets from an Algebraic Expression
+127. Count the Sum of Numbers in a String
+128. Capitalize the First and Last Character of Each Word in a String
+129. Calculate Frequency of Characters in a String
+130. Find Non-Repeating Characters in a String
+131. Check if Two Strings Are Anagrams or Not
+132. Replace a Substring in a String
+133. Replace a Particular Word with Another Word in a String
+134. Count Common Subsequences in Two Strings
+135. Check if Two Strings Match Where One Contains Wildcard Characters
+136. Print All Permutations of a String in Lexicographically Sorted Order
+137. Given an Array Consisting of Only 0, 1, and 2 — Sort It Without Using Any Sorting Algorithm
+138. Find the Kth Maximum and Minimum Element of an Array
+139. Move All Negative Elements to One Side of the Array
+140. Find the Union and Intersection of Two Sorted Arrays
+141. Find the Largest Sum Contiguous Subarray
+142. Minimize the Maximum Difference Between Heights
+143. Minimum Number of Jumps to Reach the End of an Array
+144. Find Duplicate in an Array of N+1 Integers
+145. Merge Two Sorted Arrays Without Using Extra Space
+146. Kadane’s Algorithm for Maximum Subarray Sum
+147. Merge Intervals
+148. Count Inversions in an Array
+149. Best Time to Buy and Sell Stock
+150. Find All Pairs in an Integer Array Whose Sum Equals a Given Number
+151. Find if There Is Any Subarray with Sum Equal to 0
+152. Find Factorial of a Large Number
+153. Find Common Elements in Three Sorted Arrays
+154. Rearrange the Array in Alternating Positive and Negative Items with O(1) Extra Space
+155. Given an Array of Size n and a Number k, Find All Elements That Appear More Than n/k Times
+156. Maximum Profit by Buying and Selling a Share at Most Twice
+157. Next Permutation of a Given Array
+158. Find Longest Consecutive Subsequence
+159. Trapping Rain Water Problem
+160. Chocolate Distribution Problem
+161. Smallest Subarray with Sum Greater Than a Given Value
+162. Three-Way Partitioning of an Array Around a Given Value
+163. Minimum Number of Operations Required to Make an Array Palindrome
+164. Median of Two Sorted Arrays of Equal Size
+165. Median of Two Sorted Arrays of Different Sizes
+166. Spiral Traversal on a Matrix
+167. Search an Element in a Matrix
+168. Find Median in a Row-Wise Sorted Matrix
+169. Find Row with Maximum Number of 1’s
+170. Print Elements in Sorted Order Using Row-Column Wise Sorted Matrix
+171. Find a Specific Pair in a Matrix
+172. Rotate Matrix by 90 Degrees
+173. Kth Smallest Element in a Row-Column Wise Sorted Matrix
+174. Common Elements in All Rows of a Given Matrix
