@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class EightySeven {
     public static void main(String[] args) {
         // Problem 87: Find the Second Largest Element in an Array
