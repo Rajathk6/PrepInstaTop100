@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
-
 public class NintyFour {
     public static void main(String[] args) {
         // Problem 94: Remove All Adjacent Duplicate Characters Recursively
