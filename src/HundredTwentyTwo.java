@@ -15,8 +15,7 @@ public class HundredTwentyTwo {
                     return false;
                 }
                 last--;
-            }
-            
+            } 
         }
         return true;
     }
