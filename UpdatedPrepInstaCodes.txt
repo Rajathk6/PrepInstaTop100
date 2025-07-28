@@ -132,43 +132,44 @@
 132. Replace a Substring in a String
 133. Replace a Particular Word with Another Word in a String
 134. Count Common Subsequences in Two Strings
-135. Check if Two Strings Match Where One Contains Wildcard Characters
-136. Print All Permutations of a String in Lexicographically Sorted Order
-137. Given an Array Consisting of Only 0, 1, and 2 — Sort It Without Using Any Sorting Algorithm
-138. Find the Kth Maximum and Minimum Element of an Array
-139. Move All Negative Elements to One Side of the Array
-140. Find the Union and Intersection of Two Sorted Arrays
-141. Find the Largest Sum Contiguous Subarray
-142. Minimize the Maximum Difference Between Heights
-143. Minimum Number of Jumps to Reach the End of an Array
-144. Find Duplicate in an Array of N+1 Integers
-145. Merge Two Sorted Arrays Without Using Extra Space
-146. Kadane’s Algorithm for Maximum Subarray Sum
-147. Merge Intervals
-148. Count Inversions in an Array
-149. Best Time to Buy and Sell Stock
-150. Find All Pairs in an Integer Array Whose Sum Equals a Given Number
-151. Find if There Is Any Subarray with Sum Equal to 0
-152. Find Factorial of a Large Number
-153. Find Common Elements in Three Sorted Arrays
-154. Rearrange the Array in Alternating Positive and Negative Items with O(1) Extra Space
-155. Given an Array of Size n and a Number k, Find All Elements That Appear More Than n/k Times
-156. Maximum Profit by Buying and Selling a Share at Most Twice
-157. Next Permutation of a Given Array
-158. Find Longest Consecutive Subsequence
-159. Trapping Rain Water Problem
-160. Chocolate Distribution Problem
-161. Smallest Subarray with Sum Greater Than a Given Value
-162. Three-Way Partitioning of an Array Around a Given Value
-163. Minimum Number of Operations Required to Make an Array Palindrome
-164. Median of Two Sorted Arrays of Equal Size
-165. Median of Two Sorted Arrays of Different Sizes
-166. Spiral Traversal on a Matrix
-167. Search an Element in a Matrix
-168. Find Median in a Row-Wise Sorted Matrix
-169. Find Row with Maximum Number of 1’s
-170. Print Elements in Sorted Order Using Row-Column Wise Sorted Matrix
-171. Find a Specific Pair in a Matrix
-172. Rotate Matrix by 90 Degrees
-173. Kth Smallest Element in a Row-Column Wise Sorted Matrix
+135. Check if Two Strings Match Where One Contains Wildcard Characters  
+136. Print All Permutations of a String in Lexicographically Sorted Order  
+137. Reverse Letters in a String  
+138. Sort an Array Consisting of Only 0, 1, and 2 Without Using Any Sorting Algorithm  
+139. Word Break
+140. Move All Negative Elements to One Side of the Array  
+141. Find the Union and Intersection of Two Sorted Arrays  
+142. Find the Largest Sum Contiguous Subarray  
+143. Minimize the Maximum Difference Between Heights  
+144. Minimum Number of Jumps to Reach the End of an Array  
+145. Find Duplicate in an Array of N+1 Integers  
+146. Merge Two Sorted Arrays Without Using Extra Space  
+147. Merge Intervals  
+148. Count Inversions in an Array  
+149. Best Time to Buy and Sell Stock  
+150. Find All Pairs in an Integer Array Whose Sum Equals a Given Number  
+151. Find if There Is Any Subarray with Sum Equal to 0  
+152. Find Factorial of a Large Number  
+153. Find Common Elements in Three Sorted Arrays  
+154. Rearrange the Array in Alternating Positive and Negative Items with O(1) Extra Space  
+155. Given an Array of Size n and a Number k, Find All Elements That Appear More Than n/k Times  
+156. Maximum Profit by Buying and Selling a Share at Most Twice  
+157. Next Permutation of a Given Array  
+158. Find Longest Consecutive Subsequence  
+159. Trapping Rain Water Problem  
+160. Chocolate Distribution Problem  
+161. Smallest Subarray with Sum Greater Than a Given Value  
+162. Three-Way Partitioning of an Array Around a Given Value  
+163. Minimum Number of Operations Required to Make an Array Palindrome  
+164. Median of Two Sorted Arrays of Equal Size  
+165. Median of Two Sorted Arrays of Different Sizes  
+166. Spiral Traversal on a Matrix  
+167. Search an Element in a Matrix  
+168. Find Median in a Row-Wise Sorted Matrix  
+169. Find Row with Maximum Number of 1’s  
+170. Print Elements in Sorted Order Using Row-Column Wise Sorted Matrix  
+171. Find a Specific Pair in a Matrix  
+172. Rotate Matrix by 90 Degrees  
+173. Kth Smallest Element in a Row-Column Wise Sorted Matrix  
 174. Common Elements in All Rows of a Given Matrix
+175. Missing Number in an Array
